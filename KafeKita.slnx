@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KafeKita/TugasBesarKPL_Solution.csproj" />
+  <Project Path="TugasBesarKPLUInterface/TugasBesarKPL_UInterface.csproj" />
+</Solution>
