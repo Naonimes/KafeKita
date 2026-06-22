@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="KafeKita/TugasBesarKPL_Solution.csproj" />
+  <Project Path="TugasBesarKPL.Tests/TugasBesarKPL.Tests.csproj" Id="9c6b1d3a-4cb5-47ae-8727-a54c9100cdf3" />
   <Project Path="TugasBesarKPLUInterface/TugasBesarKPL_UInterface.csproj" />
 </Solution>
