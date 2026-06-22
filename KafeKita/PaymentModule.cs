@@ -12,5 +12,6 @@ namespace TugasBesarKPL_Solution
             byte[] bytes = SHA256.HashData(Encoding.UTF8.GetBytes(rawStr));
             return Convert.ToHexString(bytes).Substring(0, 8);
         }
+
     }
 }

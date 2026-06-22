@@ -129,7 +129,7 @@ namespace TugasBesarKPL_UInterface
                 OnPembayaranBerhasil?.Invoke(cmbPesanan.SelectedItem.ToString());
             };
 
-            // memasukan semua elemen ke dalam scrollPanel, BUKAN ke this.Controls
+            // memasukan semua  elemen ke dalam scrollPanel, BUKAN ke this.Controls
             scrollPanel.Controls.AddRange(new Control[] { lblJudul, lblPesanan, cmbPesanan, lblTotalAwal, cmbMember, chkPromo, lblTotalAkhir, btnTampilkanQR, lblQrisBox, btnCekStatus, txtStruk, lblSpacer });
 
             this.Controls.Add(scrollPanel);
